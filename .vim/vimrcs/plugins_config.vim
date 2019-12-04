@@ -11,8 +11,6 @@ Plugin 'scrooloose/nerdtree'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'majutsushi/tagbar'
 Plugin 'scrooloose/nerdcommenter'
-Plugin 'valloric/youcompleteme'
-Plugin 'thanethomson/vim-jenkinsfile'
 Plugin 'nathanaelkane/vim-indent-guides'
 
 call vundle#end()            " required
